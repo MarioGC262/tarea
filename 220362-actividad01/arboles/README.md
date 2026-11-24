@@ -10,7 +10,6 @@ Repositorio de evidencias, reportes y scripts correspondientes a la **Actividad 
 * **Profesor:** Jesus Alejandro Flores Hernandez
 * **Integrantes del Equipo:**
   * David del Jesus Solano Herrera
-  
 
 ---
 
